@@ -1,6 +1,5 @@
 package main
 
-//commit 6
 import (
 	"fmt"
 	"net/http"
