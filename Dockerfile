@@ -1,7 +1,7 @@
 # Use the official Go Alpine image as the base image
-FROM golang:1.21rc2-alpine3.18
+FROM golang:1.20.5-alpine3.18
 
-# Set the working directory inside the container
+# Set the working directory inside the containerkkkkkj
 WORKDIR /app
 
 # Copy the Go source code to the container
